@@ -29,3 +29,5 @@ target_link_libraries("${PROJECT_NAME}" sfml-graphics-s-d
         vorbisfile
         vorbis
         ogg)
+        бебра
+        
